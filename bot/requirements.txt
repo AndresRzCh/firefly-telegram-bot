@@ -1,0 +1,4 @@
+pyTelegramBotAPI==4.15.2
+python-dotenv==1.0.1
+requests==2.25.1
+python-slugify==8.0.1
